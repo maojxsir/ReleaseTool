@@ -1,0 +1,5 @@
+<sysconfg,Project = "ja039">
+	<Item,Type = "PREV_SYSTEM_VERSION_PATH">C://WINCE600//OSDesigns//WSJA039//WSJA039//Wince600//TT6X0BD_ARMV4I//OAK//files//project.reg</Item>
+	<Item,Type = "RELEASE_SYSTEM_VERSION_PATH">C://build_nk//JA039_Program_PRODUCT//AVIC2097ZT_PLT_PRODUCT//AVIC2097ZT//AZT01PLT.HTM</Item>
+	<Item,Type = "T_SAVE_PATH">T:\\Program\\ja039CL\\CLRelease\\local\\</Item>
+</sysconfg>
